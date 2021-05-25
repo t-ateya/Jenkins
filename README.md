@@ -4,3 +4,4 @@ Tooling Website Deployment automation with Continuous Integration using Jenkins
 -I wanna make a post build action
 -I am sending text file over ssh to nfs server
 - I am doing another commit after changing owner ec2-user in /mnt/apps
+- I am adding a new branch using command git checkout -b my-features
